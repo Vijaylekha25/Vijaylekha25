@@ -1,241 +1,162 @@
 <div align="center">
 
-# ☕ POOJA'S DATA LAB
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pooja%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" />
 
-### Data Scientist • Data Analyst • Machine Learning Practitioner
+</div>
 
-*"Turning Data Into Decisions."*
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=🤖+Machine+Learning+Engineer;📊+Data+Science+Explorer;🐍+Python+%7C+SQL+%7C+Tableau;🧠+Deep+Learning+%7C+AI+Researcher;🌟+Turning+Data+into+Insights!" alt="Typing SVG" />
 </div>
 
 ---
 
-# 👋 Hey, I'm Pooja
+## 👩‍💻 About Me
 
-I enjoy transforming messy datasets into meaningful insights and building intelligent systems that solve real-world problems.
+<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4b3VtcmJvenVubmJmN2kzeGFmZzZwMjMxeWp4dGVmdWdwOXNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My journey started with curiosity and evolved into a passion for Data Analytics, Machine Learning, MLOps, and AI-powered solutions.
+🎓 **Aspiring Data Scientist** from **Lucknow, India**
 
-Today I work on everything from data cleaning and visualization to model deployment and production APIs.
+🔭 Currently working on **MLOps & Production ML Pipelines**
 
-I believe data becomes valuable only when it helps people make better decisions.
+🌱 Deepening skills in **Generative AI & LLMs**
+
+🤝 Open to collaborations on **Data Science & AI projects**
+
+💬 Ask me about **Python · SQL · Machine Learning · Deep Learning · Tableau**
+
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/pooja-mishra-88683a255/)**
+
+⚡ Fun fact: **I believe every dataset has a story — I just help tell it!**
 
 ---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-## 🧠 INSIDE MY DATA LAB
-
-<img src="images/pooja-data-lab-banner.png" width="100%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-mishra-88683a255/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijaylekha25)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vijaylekha25&label=Profile%20Views&color=6E40C9&style=for-the-badge)](https://github.com/Vijaylekha25)
 
 </div>
 
-### What this image represents
+---
 
-📊 Finding patterns hidden inside data
+## 🛠️ Tech Stack & Tools
 
-🐍 Writing Python that solves problems
+### 💻 Languages
+<div align="center">
 
-🗄️ Exploring data with SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-📈 Building dashboards that tell stories
+</div>
 
-🤖 Training machine learning models
+### 🤖 ML / AI Frameworks
+<div align="center">
 
-⚙️ Deploying solutions into production
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-☕ Late-night curiosity and continuous learning
+</div>
+
+### 📊 Data & Visualization
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Cloud
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
 
 ---
 
-# 📊 EXPERIENCE AT A GLANCE
+## 📈 GitHub Stats
 
-```text
-50,000+ Customer Records Processed
+<div align="center">
 
-119,000+ Records Analyzed
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-Power BI Dashboards Built
+</div>
 
-Production APIs Deployed
+<div align="center">
 
-OCR Solutions Developed
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
-Machine Learning Models Trained
-
-Cloud Solutions Delivered
-```
+</div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🏆 GitHub Trophies
 
-## 📄 Aadhaar OCR Automation Platform
+<div align="center">
 
-Built a production-grade OCR service that extracts structured information from Aadhaar cards and PDFs.
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
-### Impact
-
-✔ Reduced manual KYC effort by approximately 80%
-
-✔ Automated document processing
-
-✔ Deployed on Google Cloud Run
-
-### Tech Stack
-
-Python • PaddleOCR • FastAPI • Docker • GCP
+</div>
 
 ---
 
-## ⚙️ End-to-End MLOps Pipeline
+## 🚀 Featured Projects
 
-Designed and deployed a complete machine learning lifecycle pipeline.
-
-### Features
-
-✔ Data Ingestion
-
-✔ Experiment Tracking
-
-✔ CI/CD Automation
-
-✔ Model Deployment
-
-### Tech Stack
-
-Python • MLflow • Jenkins • Docker • Flask
+| 🔥 Project | 📝 Description | 🛠️ Tech |
+|-----------|---------------|---------|
+| [MLOps Project](https://github.com/Vijaylekha25/MLOPS-PROJECT-1) | End-to-end ML pipeline with model deployment | Python · MLOps · Jupyter |
+| [Resume Portfolio](https://github.com/Vijaylekha25/Resume-Pooja--Mishra) | Professional resume & portfolio repository | Markdown · GitHub |
 
 ---
 
-## 🏨 Hotel Reservation Cancellation Prediction
-
-Predictive machine learning system built using hotel reservation data.
-
-### Results
-
-✔ 87%+ Accuracy
-
-✔ 119K+ Records Analyzed
-
-✔ Actionable Business Insights
-
-### Tech Stack
-
-Python • Pandas • Scikit-Learn • LightGBM
-
----
-
-# 🧠 CURRENTLY EXPLORING
+## 📚 Currently Learning
 
 ```python
-focus_areas = [
-    "Machine Learning",
-    "Data Analytics",
-    "Computer Vision",
-    "MLOps",
-    "Generative AI",
-    "Cloud AI Solutions"
-]
+skills_in_progress = {
+    "Generative AI":    ["LangChain", "Prompt Engineering", "RAG"],
+    "MLOps":            ["Docker", "CI/CD", "Model Monitoring"],
+    "Deep Learning":    ["Transformers", "Computer Vision", "NLP"],
+    "Data Engineering": ["Apache Spark", "Airflow", "ETL Pipelines"]
+}
+
+print("🌱 Always growing, always learning!")
 ```
-
----
-
-# 📈 MY DATA JOURNEY
-
-```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-Exploratory Analysis
-    ↓
-Machine Learning
-    ↓
-Deployment
-    ↓
-Business Impact
-```
-
----
-
-# 🛠 TECHNOLOGY STACK
-
-### Data
-
-Python • SQL • Pandas • NumPy
-
-### Machine Learning
-
-Scikit-Learn • LightGBM • TensorFlow
-
-### Visualization
-
-Power BI • Matplotlib • Seaborn
-
-### Backend
-
-FastAPI • Flask
-
-### MLOps
-
-Docker • Jenkins • MLflow
-
-### Cloud
-
-Google Cloud Platform
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight"/>
-
-</p>
-
----
-
-# ☕ A DAY IN MY DATA LAB
-
-```text
-Coffee
-   ↓
-SQL
-   ↓
-Data Cleaning
-   ↓
-EDA
-   ↓
-Model Training
-   ↓
-API Development
-   ↓
-Learning
-```
-
----
-
-# 🌍 CONNECT WITH ME
-
-📧 Email: mpooja25@myyahoo.com
-
-💼 Lindin: https://www.linkedin.com/in/pooja-mishra-88683a255/  
-
-💻 GitHub: https://github.com/Vijaylekha25
 
 ---
 
 <div align="center">
 
-### Data → Insights → Intelligence → Impact
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-*"Still learning. Still building. Still curious."*
+  **✨ "Data is the new oil — and I'm here to refine it!" ✨**
+
+  *Made with ❤️ by Pooja Mishra*
 
 </div>
+
 
 
 
