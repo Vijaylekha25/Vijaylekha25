@@ -19,9 +19,8 @@
 ## 🌸 Meet Pooja – A Data Scientist at Work
 
 <div align="center">
-
-<img src="PASTE_RAW_IMAGE_URL_HERE" width="700"/>
-
+<img src="./assets/pooja-data-scientist.jpg" width="550"/>
+        
 </div>
 
 ### What I Do
