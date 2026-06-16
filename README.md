@@ -1,110 +1,127 @@
-Hi 👋, I'm Pooja Mishra
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ4bGk4YTh4aXl2M3A5c3I4cWQzYmJla3l5YzE4MXAwbnBzNzNxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+</p>
 
-<div align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
+<div align="center">Hi 👋 I'm Pooja Mishra</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Python+Developer;Turning+Data+into+Insights;Always+Learning+and+Building" /></div>---
+<div align="center">🚀 Data Scientist | MLOps Engineer | AI Developer
 
-👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Production+Grade+ML+Systems;FastAPI+%7C+Docker+%7C+GCP+Cloud+Run;Machine+Learning+%26+MLOps+Engineer;Transforming+Data+into+Business+Impact;Always+Learning+Always+Building" /></div>---
 
-🎓 Diploma in Computer Science & Engineering
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">💫 About Me
 
-📊 Passionate about Data Science, Machine Learning, and Analytics
+🔹 Data Science Professional with 1+ years of experience
 
-🐍 Strong foundation in Python, SQL, Pandas, NumPy, and Data Visualization
+🔹 Building scalable ML applications and REST APIs
 
-📈 Building projects that transform raw data into meaningful insights
+🔹 Experienced in MLOps, Cloud Deployment & Automation
 
-🌱 Currently learning Advanced Machine Learning and Deep Learning
+🔹 Passionate about Machine Learning, Computer Vision and AI
 
-💼 Looking for opportunities in Data Science, Data Analytics, and Machine Learning
+🔹 Worked on production-grade Aadhaar OCR automation system
 
-⚡ Fun Fact: I enjoy solving real-world problems using data
+🔹 Building real-world solutions using Python, FastAPI, Docker & GCP
+
+🔹 Open to Data Scientist, ML Engineer and Data Analyst opportunities
 
 ---
 
-🛠️ Tech Stack
+⚡ Tech Arsenal
 
-Programming Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql,docker,jenkins,git,github,vscode,linux,gcp,flask,tensorflow" /></p>AI / ML Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>Data Science & Analytics
+Machine Learning   ████████████████████ 95%
+Python             ████████████████████ 95%
+SQL                ██████████████████   90%
+FastAPI            ██████████████████   90%
+Docker             █████████████████    85%
+MLOps              █████████████████    85%
+Power BI           ███████████████      80%
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>---
-
-📊 GitHub Analytics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true"/></p>---
+---
 
 🚀 Featured Projects
 
-📈 Customer Churn Prediction
+🔥 Aadhaar OCR Automation
 
-Machine Learning model to predict customer attrition and improve business retention strategies.
+✔ Production-grade OCR API
 
-🏠 House Price Prediction
+✔ FastAPI + PaddleOCR + OpenCV
 
-Regression-based model for estimating property prices using historical housing data.
+✔ Dockerized Deployment
 
-📊 Sales Dashboard
+✔ GCP Cloud Run
 
-Interactive Power BI dashboard providing sales insights and KPI tracking.
-
-🎬 Movie Recommendation System
-
-Recommendation engine using collaborative filtering techniques.
+✔ Reduced manual KYC effort by 80%
 
 ---
 
-📚 Currently Exploring
+⚡ End-to-End MLOps Pipeline
 
-🔹 Machine Learning Algorithms
+✔ MLflow Experiment Tracking
 
-🔹 Deep Learning
+✔ Jenkins CI/CD
 
-🔹 Feature Engineering
+✔ Docker Containers
 
-🔹 MLOps Fundamentals
+✔ Flask Prediction API
 
-🔹 Generative AI & LLMs
+✔ GCP Cloud Deployment
 
 ---
 
-🏆 GitHub Trophies
+📊 Hotel Reservation Cancellation Predictor
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>---
+✔ 119,000+ Records Analyzed
 
-📈 Contribution Graph
+✔ LightGBM Model
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaylekha25&theme=tokyo-night&hide_border=true"/>
-</p>---
+✔ 87%+ Accuracy
 
-🤝 Connect With Me
+✔ Feature Engineering
 
-<p align="left"><a href="https://github.com/Vijaylekha25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+✔ Business Insight Generation
 
-<div align="center">⭐ "Without data, you're just another person with an opinion."
+---
 
-Thanks for visiting my profile! 🚀
+📈 GitHub Analytics
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=radical&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=radical&hide_border=true"/></p>---
+
+🔥 GitHub Streak
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=radical&hide_border=true"/></p>---
+
+🏆 Achievements
+
+🏅 Built Production OCR Service
+
+🏅 Automated MLOps Pipeline
+
+🏅 Deployed Applications on GCP
+
+🏅 Data Analytics Professional
+
+🏅 Power BI Dashboard Developer
+
+---
+
+📊 Contribution Activity
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaylekha25&theme=react-dark&hide_border=true"/></p>---
+
+🌐 Connect With Me
+
+📧 mpooja25@myyahoo.com
+
+💼 LinkedIn
+
+🐙 GitHub: github.com/Vijaylekha25
+
+---
+
+<div align="center">💡 "Data tells a story. I build the systems that make it speak."
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
