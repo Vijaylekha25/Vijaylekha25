@@ -2,79 +2,73 @@
 
 # ☕ POOJA'S DATA LAB
 
-### Data Scientist • Data Analyst • Building Intelligent Systems Through Data
+### Data Scientist • Data Analyst • Machine Learning Practitioner
 
-*"Most people see data. I see stories, patterns, and decisions."*
-
-<img src="YOUR_GIF_LINK_HERE" width="900"/>
+*"Turning Data Into Decisions."*
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Pooja
+# 👋 Hey, I'm Pooja
 
-I'm a Data Science professional who enjoys transforming raw information into meaningful insights and intelligent solutions.
+I enjoy transforming messy datasets into meaningful insights and building intelligent systems that solve real-world problems.
 
-Whether it's cleaning thousands of records, building machine learning models, deploying APIs, or creating dashboards that drive business decisions, I love solving real-world problems with data.
+My journey started with curiosity and evolved into a passion for Data Analytics, Machine Learning, MLOps, and AI-powered solutions.
 
-Currently exploring the intersection of:
+Today I work on everything from data cleaning and visualization to model deployment and production APIs.
 
-📊 Analytics
-
-🧠 Machine Learning
-
-📄 OCR & Document Intelligence
-
-⚙️ MLOps
-
-☁️ Cloud Deployment
-
-🤖 Generative AI
+I believe data becomes valuable only when it helps people make better decisions.
 
 ---
 
-# 🧠 What Happens Here?
+<div align="center">
 
-Most people see rows and columns.
+## 🧠 INSIDE MY DATA LAB
 
-I see patterns.
+<img src="images/pooja-data-lab-banner.png" width="100%">
 
-Most people see dashboards.
+</div>
 
-I see business decisions.
+### What this image represents
 
-Most people see datasets.
+📊 Finding patterns hidden inside data
 
-I see opportunities to solve problems.
+🐍 Writing Python that solves problems
 
-This GitHub is my data lab—a place where ideas become projects and projects become solutions.
+🗄️ Exploring data with SQL
+
+📈 Building dashboards that tell stories
+
+🤖 Training machine learning models
+
+⚙️ Deploying solutions into production
+
+☕ Late-night curiosity and continuous learning
 
 ---
 
-# 📈 My Journey
+# 📊 EXPERIENCE AT A GLANCE
 
 ```text
-Curiosity
-   ↓
-Python
-   ↓
-SQL
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-MLOps
-   ↓
-Production Systems
-   ↓
-Real Business Impact
+50,000+ Customer Records Processed
+
+119,000+ Records Analyzed
+
+Power BI Dashboards Built
+
+Production APIs Deployed
+
+OCR Solutions Developed
+
+Machine Learning Models Trained
+
+Cloud Solutions Delivered
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ## 📄 Aadhaar OCR Automation Platform
 
@@ -82,15 +76,15 @@ Built a production-grade OCR service that extracts structured information from A
 
 ### Impact
 
-✔ Reduced manual KYC effort by ~80%
+✔ Reduced manual KYC effort by approximately 80%
 
 ✔ Automated document processing
 
-✔ Scalable deployment on GCP Cloud Run
+✔ Deployed on Google Cloud Run
 
-### Stack
+### Tech Stack
 
-Python • PaddleOCR • FastAPI • OpenCV • Docker • GCP
+Python • PaddleOCR • FastAPI • Docker • GCP
 
 ---
 
@@ -108,7 +102,7 @@ Designed and deployed a complete machine learning lifecycle pipeline.
 
 ✔ Model Deployment
 
-### Stack
+### Tech Stack
 
 Python • MLflow • Jenkins • Docker • Flask
 
@@ -116,7 +110,7 @@ Python • MLflow • Jenkins • Docker • Flask
 
 ## 🏨 Hotel Reservation Cancellation Prediction
 
-Machine learning solution to predict booking cancellations.
+Predictive machine learning system built using hotel reservation data.
 
 ### Results
 
@@ -124,45 +118,62 @@ Machine learning solution to predict booking cancellations.
 
 ✔ 119K+ Records Analyzed
 
-✔ Business Insight Generation
+✔ Actionable Business Insights
 
-### Stack
+### Tech Stack
 
-Python • LightGBM • Pandas • Scikit-Learn
-
----
-
-# 📊 Experience Snapshot
-
-✔ 1+ Year Professional Experience
-
-✔ 50,000+ Records Processed
-
-✔ 119,000+ Records Analyzed
-
-✔ Customer Analytics Experience
-
-✔ Production APIs Deployed
-
-✔ Cloud-Based Solutions Built
+Python • Pandas • Scikit-Learn • LightGBM
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 CURRENTLY EXPLORING
 
-### Languages
+```python
+focus_areas = [
+    "Machine Learning",
+    "Data Analytics",
+    "Computer Vision",
+    "MLOps",
+    "Generative AI",
+    "Cloud AI Solutions"
+]
+```
 
-Python • SQL
+---
 
-### Data Science
+# 📈 MY DATA JOURNEY
 
-Pandas • NumPy • Scikit-Learn • LightGBM • TensorFlow
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Exploratory Analysis
+    ↓
+Machine Learning
+    ↓
+Deployment
+    ↓
+Business Impact
+```
+
+---
+
+# 🛠 TECHNOLOGY STACK
+
+### Data
+
+Python • SQL • Pandas • NumPy
+
+### Machine Learning
+
+Scikit-Learn • LightGBM • TensorFlow
 
 ### Visualization
 
 Power BI • Matplotlib • Seaborn
 
-### Backend & APIs
+### Backend
 
 FastAPI • Flask
 
@@ -172,29 +183,11 @@ Docker • Jenkins • MLflow
 
 ### Cloud
 
-Google Cloud Platform (GCP)
-
-### Tools
-
-Git • GitHub • VS Code
+Google Cloud Platform
 
 ---
 
-# 🔬 Currently Exploring
-
-🧠 Large Language Models (LLMs)
-
-🔍 Retrieval-Augmented Generation (RAG)
-
-🤖 AI Applications
-
-☁️ Scalable AI Systems
-
-📈 Advanced Analytics
-
----
-
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -206,55 +199,44 @@ Git • GitHub • VS Code
 
 ---
 
-# ☕ A Day in My Data Lab
+# ☕ A DAY IN MY DATA LAB
 
 ```text
-Coffee ☕
+Coffee
    ↓
-SQL Queries
+SQL
    ↓
 Data Cleaning
    ↓
 EDA
    ↓
-Model Building
+Model Training
    ↓
-Experimentation
+API Development
    ↓
-Deployment
-   ↓
-Learning Something New
+Learning
 ```
 
 ---
 
-# 🧠 Personal Philosophy
+# 🌍 CONNECT WITH ME
 
-> Data is not valuable because it exists.
->
-> Data becomes valuable when it helps people make better decisions.
->
-> That's what I enjoy building.
+📧 Email: mpooja25@myyahoo.com
 
----
+💼 Lindin: https://www.linkedin.com/in/pooja-mishra-88683a255/  
 
-# 🌍 Connect With Me
-
-📧 Your Email Here
-
-💼 LinkedIn Profile
-
-💻 GitHub: github.com/Vijaylekha25
+💻 GitHub: https://github.com/Vijaylekha25
 
 ---
 
 <div align="center">
 
-### Data ➜ Insights ➜ Intelligence ➜ Impact
+### Data → Insights → Intelligence → Impact
 
 *"Still learning. Still building. Still curious."*
 
 </div>
+
 
 
 
