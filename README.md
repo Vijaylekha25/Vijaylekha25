@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="./assets/pooja-data-scientist.png" width="700"/>
+<img src="PASTE_RAW_IMAGE_URL_HERE" width="700"/>
 
 </div>
 
