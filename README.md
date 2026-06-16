@@ -1,95 +1,148 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pooja%20Mishra&fontSize=45&fontAlignY=35&desc=Data%20Scientist%20%7C%20MLOps%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55"/>
-</p>
+<div align="center">✨ Pooja Mishra ✨</div>
 
-<p align="center">
-<img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+<div align="center">🚀 Data Scientist | MLOps Engineer | AI Enthusiast
 
-<div align="center">Hi 👋, I'm Pooja Mishra</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Systems;FastAPI+%7C+Docker+%7C+GCP+Cloud+Run;Machine+Learning+%7C+Data+Analytics;Transforming+Data+Into+Business+Impact;Always+Learning+Always+Building" /><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Pooja%20Mishra&fontSize=50&fontAlignY=40&desc=Data%20Scientist%20%7C%20MLOps%20Engineer%20%7C%20AI%20Builder&descAlignY=60"/></div>---
 
-<div align="center">🌸 Data Scientist • MLOps Engineer • AI Enthusiast
+🌸 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&width=800&lines=Turning+Data+into+Business+Insights;Building+Production+Ready+ML+Systems;FastAPI+%7C+Docker+%7C+GCP;Data+Analytics+%7C+Machine+Learning;Always+Learning+Always+Growing" /></div>---
+💡 Data Science professional with industry experience in Analytics, Machine Learning and MLOps.
 
-💖 About Me
+📊 Built dashboards and analytics solutions that improved business decision-making.
 
-✨ Data Science Professional with hands-on industry experience
+🤖 Developed production-grade AI applications using FastAPI, Docker and GCP.
 
-📊 Built Power BI dashboards used for business decision-making
+☁️ Experienced in deploying scalable Machine Learning systems on Cloud.
 
-🤖 Developed Production OCR Automation Systems
+🚀 Passionate about solving real-world business problems through Data and AI.
 
-☁️ Deployed ML Applications on GCP Cloud Run
-
-🚀 Experienced with FastAPI, Docker, Jenkins & MLflow
-
-📈 Passionate about Data Analytics, Machine Learning & AI
-
-🌱 Continuously learning and building impactful solutions
+🎯 Currently focused on Data Science, MLOps, Generative AI and Production ML Systems.
 
 ---
 
-🛠️ Tech Universe
+⚡ Tech Stack
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode,linux,tensorflow,gcp" /></p>💻 Core Skills
+<div align="center"><img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode,linux,tensorflow,gcp,flask" /></div>🔬 Data Science & AI
 
-🐍 Python
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- LightGBM
+- Machine Learning
+- Feature Engineering
 
-📊 SQL
+☁️ MLOps & Deployment
 
-📈 Power BI
+- FastAPI
+- Docker
+- Jenkins
+- MLflow
+- GCP Cloud Run
+- CI/CD Pipelines
+- REST APIs
+- Model Deployment
 
-🤖 Machine Learning
+📊 Analytics
 
-⚡ FastAPI
-
-🐳 Docker
-
-☁️ GCP
-
-🔄 Jenkins CI/CD
-
-📦 MLflow
-
-👁️ Computer Vision
+- Power BI
+- Matplotlib
+- Seaborn
+- Business Analytics
+- KPI Reporting
+- Customer Analytics
 
 ---
 
-🚀 Featured Work
+🚀 Featured Projects
 
 🔥 Aadhaar OCR Automation Platform
 
-Production-grade OCR system built using FastAPI, PaddleOCR, Docker and GCP Cloud Run.
+Production-grade OCR system built using:
+
+✔ FastAPI
+
+✔ PaddleOCR
+
+✔ OpenCV
+
+✔ Docker
+
+✔ GCP Cloud Run
+
+✔ Automated KYC Processing
+
+✔ Reduced Manual Data Entry Effort by 80%
+
+---
 
 ⚡ End-to-End MLOps Pipeline
 
-Automated training, tracking, deployment and monitoring using MLflow, Jenkins and Docker.
+Built complete ML lifecycle solution:
 
-🏨 Hotel Reservation Cancellation Prediction
+✔ Data Ingestion
 
-87%+ accurate machine learning model with feature engineering and business insights.
+✔ MLflow Tracking
+
+✔ Jenkins Automation
+
+✔ Docker Containers
+
+✔ Flask API
+
+✔ GCP Deployment
+
+✔ CI/CD Integration
+
+---
+
+🏨 Hotel Reservation Cancellation Predictor
+
+Machine Learning solution for hotel booking prediction:
+
+✔ 119,000+ Records Analyzed
+
+✔ 87%+ Prediction Accuracy
+
+✔ LightGBM Model
+
+✔ Feature Engineering
+
+✔ Business Insights Generation
 
 ---
 
 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true"/></p>---
 
-🏆 Achievements
+🔥 GitHub Streak
 
-🌟 Production ML Deployments
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true"/></p>---
 
-🌟 MLOps Engineering Projects
+🏆 GitHub Achievements
 
-🌟 Customer Analytics Experience
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&row=1&column=7"/></p>---
 
-🌟 Data Visualization & Reporting
+📈 Contribution Graph
 
-🌟 AI & Automation Solutions
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaylekha25&theme=tokyo-night&hide_border=true"/></p>---
+
+🌟 What Makes Me Different
+
+✨ Production AI Development
+
+✨ MLOps & Deployment Expertise
+
+✨ Cloud-Based ML Solutions
+
+✨ Business Analytics Experience
+
+✨ End-to-End Project Ownership
+
+✨ Real-World Problem Solving
 
 ---
 
@@ -97,13 +150,13 @@ Automated training, tracking, deployment and monitoring using MLflow, Jenkins an
 
 📧 mpooja25@myyahoo.com
 
-💼 LinkedIn
+💼 LinkedIn: Add Your LinkedIn URL
 
-🐙 GitHub: Vijaylekha25
+🐙 GitHub: https://github.com/Vijaylekha25
 
 ---
 
-<div align="center">💜 "Behind every successful AI model is a story hidden in the data."
+<div align="center">💜 "Data tells a story. I build intelligent systems that help businesses understand it."
 
 ⭐ Thanks for visiting my profile ⭐
 
