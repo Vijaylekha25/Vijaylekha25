@@ -2,13 +2,11 @@
 
 # ☕ POOJA'S DATA LAB
 
-### Data Scientist • Data Analyst • Building Intelligent Systems for the AI Era
+### Data Scientist • Data Analyst • Building Intelligent Systems Through Data
 
-*"Turning messy data into meaningful decisions."*
+*"Most people see data. I see stories, patterns, and decisions."*
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="900"/>
-
-### 📊 Python • SQL • Machine Learning • Power BI • FastAPI • MLOps • GCP
+<img src="YOUR_GIF_LINK_HERE" width="900"/>
 
 </div>
 
@@ -16,43 +14,13 @@
 
 ## 👋 Hey, I'm Pooja
 
-I spend most of my time exploring data, finding hidden patterns, and building systems that transform information into business decisions.
+I'm a Data Science professional who enjoys transforming raw information into meaningful insights and intelligent solutions.
 
-From customer analytics and dashboard development to machine learning pipelines and production APIs, I enjoy solving real-world problems through data.
+Whether it's cleaning thousands of records, building machine learning models, deploying APIs, or creating dashboards that drive business decisions, I love solving real-world problems with data.
 
-🔹 1+ Year Industry Experience
+Currently exploring the intersection of:
 
-🔹 50,000+ Customer Records Processed
-
-🔹 119,000+ Records Analyzed
-
-🔹 Production ML Systems on GCP
-
-🔹 OCR & Computer Vision Solutions
-
----
-
-## 📈 My Data Journey
-
-```text
-Raw Data
-   ↓
-Cleaning & Validation
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Machine Learning
-   ↓
-Deployment
-   ↓
-Business Impact
-```
-
-## 🚀 Current Focus
-
-📊 Data Analytics
+📊 Analytics
 
 🧠 Machine Learning
 
@@ -66,45 +34,167 @@ Business Impact
 
 ---
 
-## 💼 Featured Projects
+# 🧠 What Happens Here?
 
-### 📄 Aadhaar OCR Automation Platform
+Most people see rows and columns.
 
-Built a production-grade OCR service for extracting structured information from Aadhaar cards and PDFs.
+I see patterns.
 
-**Impact**
+Most people see dashboards.
 
-✅ Reduced manual KYC effort by ~80%
+I see business decisions.
 
-✅ Automated document processing
+Most people see datasets.
 
-✅ Deployed on GCP Cloud Run
+I see opportunities to solve problems.
 
----
-
-### ⚙️ End-to-End MLOps Pipeline
-
-Built a complete machine learning lifecycle pipeline with CI/CD automation and cloud deployment.
-
-**Stack**
-
-Python • MLflow • Jenkins • Docker • Flask • GCP
+This GitHub is my data lab—a place where ideas become projects and projects become solutions.
 
 ---
 
-### 🏨 Hotel Reservation Cancellation Prediction
+# 📈 My Journey
 
-Predicted hotel booking cancellations using LightGBM on 119K+ records.
-
-**Results**
-
-✅ 87%+ Accuracy
-
-✅ Business Insight Generation
+```text
+Curiosity
+   ↓
+Python
+   ↓
+SQL
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+MLOps
+   ↓
+Production Systems
+   ↓
+Real Business Impact
+```
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+## 📄 Aadhaar OCR Automation Platform
+
+Built a production-grade OCR service that extracts structured information from Aadhaar cards and PDFs.
+
+### Impact
+
+✔ Reduced manual KYC effort by ~80%
+
+✔ Automated document processing
+
+✔ Scalable deployment on GCP Cloud Run
+
+### Stack
+
+Python • PaddleOCR • FastAPI • OpenCV • Docker • GCP
+
+---
+
+## ⚙️ End-to-End MLOps Pipeline
+
+Designed and deployed a complete machine learning lifecycle pipeline.
+
+### Features
+
+✔ Data Ingestion
+
+✔ Experiment Tracking
+
+✔ CI/CD Automation
+
+✔ Model Deployment
+
+### Stack
+
+Python • MLflow • Jenkins • Docker • Flask
+
+---
+
+## 🏨 Hotel Reservation Cancellation Prediction
+
+Machine learning solution to predict booking cancellations.
+
+### Results
+
+✔ 87%+ Accuracy
+
+✔ 119K+ Records Analyzed
+
+✔ Business Insight Generation
+
+### Stack
+
+Python • LightGBM • Pandas • Scikit-Learn
+
+---
+
+# 📊 Experience Snapshot
+
+✔ 1+ Year Professional Experience
+
+✔ 50,000+ Records Processed
+
+✔ 119,000+ Records Analyzed
+
+✔ Customer Analytics Experience
+
+✔ Production APIs Deployed
+
+✔ Cloud-Based Solutions Built
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • SQL
+
+### Data Science
+
+Pandas • NumPy • Scikit-Learn • LightGBM • TensorFlow
+
+### Visualization
+
+Power BI • Matplotlib • Seaborn
+
+### Backend & APIs
+
+FastAPI • Flask
+
+### MLOps
+
+Docker • Jenkins • MLflow
+
+### Cloud
+
+Google Cloud Platform (GCP)
+
+### Tools
+
+Git • GitHub • VS Code
+
+---
+
+# 🔬 Currently Exploring
+
+🧠 Large Language Models (LLMs)
+
+🔍 Retrieval-Augmented Generation (RAG)
+
+🤖 AI Applications
+
+☁️ Scalable AI Systems
+
+📈 Advanced Analytics
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -116,21 +206,56 @@ Predicted hotel booking cancellations using LightGBM on 119K+ records.
 
 ---
 
-## 🧠 Philosophy
+# ☕ A Day in My Data Lab
 
-> Data tells stories.
+```text
+Coffee ☕
+   ↓
+SQL Queries
+   ↓
+Data Cleaning
+   ↓
+EDA
+   ↓
+Model Building
+   ↓
+Experimentation
+   ↓
+Deployment
+   ↓
+Learning Something New
+```
+
+---
+
+# 🧠 Personal Philosophy
+
+> Data is not valuable because it exists.
 >
-> My job is to discover them, understand them, and turn them into decisions that create impact.
+> Data becomes valuable when it helps people make better decisions.
+>
+> That's what I enjoy building.
+
+---
+
+# 🌍 Connect With Me
+
+📧 Your Email Here
+
+💼 LinkedIn Profile
+
+💻 GitHub: github.com/Vijaylekha25
 
 ---
 
 <div align="center">
 
-### ☕ Welcome to Pooja's Data Lab
+### Data ➜ Insights ➜ Intelligence ➜ Impact
 
-Data ➜ Insights ➜ Intelligence ➜ Impact
+*"Still learning. Still building. Still curious."*
 
 </div>
+
 
 
 
