@@ -1,123 +1,266 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║           POOJA MISHRA — AI & DATA SCIENCE PROFILE 2026          ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pooja%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1060,100:0d1117&height=300&section=header&text=POOJA%20MISHRA&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Data%20Scientist%20·%20ML%20Architect&descSize=18&descAlignY=58&descColor=c084fc&stroke=6e40c9&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=🤖+Machine+Learning+Engineer;📊+Data+Science+Explorer;🐍+Python+%7C+SQL+%7C+Tableau;🧠+Deep+Learning+%7C+AI+Researcher;🌟+Turning+Data+into+Insights!" alt="Typing SVG" />
-</div>
 
----
-
-## 👩‍💻 About Me
-
-<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4b3VtcmJvenVubmJmN2kzeGFmZzZwMjMxeWp4dGVmdWdwOXNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-🎓 **Aspiring Data Scientist** from **Lucknow, India**
-
-🔭 Currently working on **MLOps & Production ML Pipelines**
-
-🌱 Deepening skills in **Generative AI & LLMs**
-
-🤝 Open to collaborations on **Data Science & AI projects**
-
-💬 Ask me about **Python · SQL · Machine Learning · Deep Learning · Tableau**
-
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/pooja-mishra-88683a255/)**
-
-⚡ Fun fact: **I believe every dataset has a story — I just help tell it!**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-mishra-88683a255/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijaylekha25)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vijaylekha25&label=Profile%20Views&color=6E40C9&style=for-the-badge)](https://github.com/Vijaylekha25)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=750&height=45&lines=🧠+Architecting+Intelligent+Systems+in+the+AI+Era+2026;🔗+RAG+Pipelines+·+LLM+Fine-tuning+·+Vector+Search;⚡+From+Raw+Data+→+Production+AI+→+Real+Impact;🤖+Neural+Nets+that+Think+·+Models+that+Matter;🚀+Building+Tomorrow's+AI+—+One+Commit+at+a+Time" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 💻 Languages
+## 🧬 `init PoojaM ishra()`
+
+```python
+class PoojaM ishra:
+    """
+    AI Engineer living in the future.
+    Lucknow → Global Impact.
+    """
+    name       = "Pooja Mishra"
+    located_in = "Lucknow, India 🇮🇳"
+    role       = "AI Engineer & Data Scientist"
+    year       = 2026  # The AI decade
+
+    expertise = {
+        "AI/ML"  : ["LLMs", "RAG", "Agents", "Fine-tuning"],
+        "Data"   : ["Analytics", "Pipelines", "Viz"],
+        "Deploy" : ["MLOps", "Docker", "FastAPI"],
+        "Lang"   : ["Python", "SQL", "R"]
+    }
+
+    mindset = "Data tells stories. AI amplifies them."
+
+    def daily_routine(self):
+        return [
+            "☕ Coffee + read AI papers",
+            "🧠 Train / fine-tune models",
+            "🔗 Build RAG pipelines",
+            "📊 Analyze & visualize data",
+            "🚀 Deploy to production",
+            "🔁 Repeat & improve"
+        ]
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 12px;"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Data Flow" style="border-radius: 12px;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎬 A Day in My Data Science Life
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+| 🌅 Morning | 🌞 Afternoon | 🌙 Night |
+|:---:|:---:|:---:|
+| <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Morning Coding"/> | <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="ML Models"/> | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Night Coding"/> |
+| **Reading AI papers** | **Training ML models** | **Deploying to prod** |
+| Prompt engineering | Building RAG pipelines | Reviewing metrics |
 
 </div>
 
-### 🤖 ML / AI Frameworks
+---
+
+## ⚡ The Neural Network of My Skills
+
 <div align="center">
 
+```
+    INPUT LAYER              HIDDEN LAYERS              OUTPUT LAYER
+  ┌─────────────┐        ┌───────────────┐           ┌──────────────┐
+  │   Python    │───────▶│  TensorFlow   │──────────▶│ Production   │
+  │   SQL       │───────▶│  PyTorch      │──────────▶│ AI Systems   │
+  │   R         │───────▶│  Scikit-Learn │──────────▶│              │
+  └─────────────┘        └───────────────┘           │ RAG Pipelines│
+                                                      │              │
+  ┌─────────────┐        ┌───────────────┐           │ ML APIs      │
+  │  LangChain  │───────▶│  ChromaDB     │──────────▶│              │
+  │  LlamaIndex │───────▶│  Pinecone     │──────────▶│ Data Stories │
+  │  HuggingFace│───────▶│  FAISS        │──────────▶│              │
+  └─────────────┘        └───────────────┘           └──────────────┘
+        │                        │                           │
+    [ENCODE]               [TRANSFORM]                  [DEPLOY] 🚀
+```
+
+</div>
+
+---
+
+## 🛸 2026 AI Tech Stack
+
+<div align="center">
+
+### 🧠 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6E40C9?style=for-the-badge&logoColor=white)
+
+### 🔥 Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
 
-</div>
-
-### 📊 Data & Visualization
-<div align="center">
-
+### 📊 Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</div>
+### 🗃️ Vector DBs & AI Infra
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Databases & Cloud
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### ⚙️ Tools & Platforms
-<div align="center">
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ MLOps & Deploy
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🎨 What Data Science Actually Looks Like
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Neural Network"/>
+<br/>
+<strong>🧠 Neural Networks Training</strong>
+<br/>
+<sub>Watching loss curves drop to zero</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Data Analysis"/>
+<br/>
+<strong>📊 Data Flowing Through Pipelines</strong>
+<br/>
+<sub>ETL → Transform → Insight</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="GitHub commits"/>
+<br/>
+<strong>🚀 Shipping AI to Production</strong>
+<br/>
+<sub>From notebook to the world</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Python Coding"/>
+<br/>
+<strong>🐍 Python All Day</strong>
+<br/>
+<sub>The language of AI</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Data Visualization"/>
+<br/>
+<strong>📈 Turning Data Into Art</strong>
+<br/>
+<sub>Visualization that tells stories</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Algorithm"/>
+<br/>
+<strong>⚡ Algorithm Thinking</strong>
+<br/>
+<sub>O(n) thoughts per second</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Intelligence Dashboard
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e2e8f0&ring_color=6e40c9" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc" width="55%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaylekha25&bg_color=0d1117&color=c084fc&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+
+</div>
+
+---
+
+## 🗺️ My 2026 AI Roadmap
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ POOJA'S AI MASTERY JOURNEY — 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ Q1 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ RAG · Vector DBs · Prompt Eng.
+  🔄 Q2 │▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░│ LLM Fine-tuning · AI Agents
+  🔜 Q3 │▓▓▓▓░░░░░░░░░░░░░░░░│ Multimodal AI · Vision+LLMs
+  🎯 Q4 │░░░░░░░░░░░░░░░░░░░░│ Production SaaS · AI Research
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CURRENT FOCUS: LLM Fine-tuning with LoRA/QLoRA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
@@ -125,41 +268,52 @@
 
 ## 🚀 Featured Projects
 
-| 🔥 Project | 📝 Description | 🛠️ Tech |
-|-----------|---------------|---------|
-| [MLOps Project](https://github.com/Vijaylekha25/MLOPS-PROJECT-1) | End-to-end ML pipeline with model deployment | Python · MLOps · Jupyter |
-| [Resume Portfolio](https://github.com/Vijaylekha25/Resume-Pooja--Mishra) | Professional resume & portfolio repository | Markdown · GitHub |
+<div align="center">
+
+| 🔥 Project | 🧠 Description | 🛠️ Stack | ⭐ |
+|:---|:---|:---|:---:|
+| [**MLOps Pipeline**](https://github.com/Vijaylekha25/MLOPS-PROJECT-1) | End-to-end ML: train → track → deploy | Python · MLflow · Docker | ⭐ |
+| [**AI Portfolio**](https://github.com/Vijaylekha25/Resume-Pooja--Mishra) | Professional AI-powered resume system | Markdown · GitHub | 📁 |
+| **RAG QA Engine** *(soon)* | Production retrieval-augmented QA system | LangChain · ChromaDB · FastAPI | 🔨 |
+| **LLM Fine-tuner** *(soon)* | Domain-specific LLM fine-tuning pipeline | PyTorch · LoRA · HuggingFace | 🔬 |
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🌐 Let's Connect & Build Together
 
-```python
-skills_in_progress = {
-    "Generative AI":    ["LangChain", "Prompt Engineering", "RAG"],
-    "MLOps":            ["Docker", "CI/CD", "Model Monitoring"],
-    "Deep Learning":    ["Transformers", "Computer Vision", "NLP"],
-    "Data Engineering": ["Apache Spark", "Airflow", "ETL Pipelines"]
-}
+<div align="center">
 
-print("🌱 Always growing, always learning!")
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-mishra-88683a255/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijaylekha25)
+[![Email](https://img.shields.io/badge/Email-Collaborate_With_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooja@example.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vijaylekha25&label=Profile+Views&color=6e40c9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Vijaylekha25?label=Followers&style=for-the-badge&color=6e40c9&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="AI Brain"/>
 
-  **✨ "Data is the new oil — and I'm here to refine it!" ✨**
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    "In 2026, AI isn't the future. It's the present.         ║
+║     The question is: are you building it or watching it?"    ║
+║                                                              ║
+║                              — Pooja Mishra                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-  *Made with ❤️ by Pooja Mishra*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:0d1117&height=150&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=16" width="100%"/>
+
+*⚡ Built for the AI Era · Data is my canvas · Models are my brush*
 
 </div>
-
-
-
-
-
-
-
