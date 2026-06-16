@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+<img width="420" src="YOUR_CUSTOM_GIRL_DATA_SCIENTIST_IMAGE">
 
-<br>
+### 👩‍💻 Pooja Mishra
+### Data Scientist • AI Enthusiast • Machine Learning Engineer
 
 ### 👩‍💻 Data Scientist • AI Explorer • Problem Solver
 
