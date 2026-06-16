@@ -1,267 +1,110 @@
-<div align="center">
+Hi 👋, I'm Pooja Mishra
 
-# 👋 Hi, I'm Pooja Mishra
+<div align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
-### 🚀 Data Scientist | AI Enthusiast | Machine Learning Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Python+Developer;Turning+Data+into+Insights;Always+Learning+and+Building" /></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Building+AI+Solutions+for+Real+World+Problems;Machine+Learning+%7C+Data+Science+%7C+Generative+AI;Always+Learning+Something+New+%F0%9F%9A%80" />
+👩‍💻 About Me
 
-<br>
+🎓 Diploma in Computer Science & Engineering
 
-📍 **Gurugram, India 🇮🇳**
+📊 Passionate about Data Science, Machine Learning, and Analytics
 
-💼 Open to Data Science, AI & Machine Learning Opportunities
+🐍 Strong foundation in Python, SQL, Pandas, NumPy, and Data Visualization
 
-</div>
+📈 Building projects that transform raw data into meaningful insights
 
----
+🌱 Currently learning Advanced Machine Learning and Deep Learning
 
-## 🌸 Meet Pooja – A Data Scientist at Work
+💼 Looking for opportunities in Data Science, Data Analytics, and Machine Learning
 
-<div align="center">
-<img src="./assets/pooja-data-scientist.jpg" width="550"/>
-        
-</div>
-
-### What I Do
-
-As a Data Scientist, I work with data to discover insights, build intelligent systems, and solve real-world business problems.
-
-🔹 Analyze large datasets
-
-🔹 Discover patterns and trends
-
-🔹 Build Machine Learning models
-
-🔹 Create AI-powered solutions
-
-🔹 Deploy models into production
-
-🔹 Help businesses make data-driven decisions
-
-# 🔄 My Data Science Workflow
-
-<div align="center">
-
-```text
-📥 DATA COLLECTION
-        │
-        ▼
-🧹 DATA CLEANING
-        │
-        ▼
-📊 EXPLORATORY DATA ANALYSIS
-        │
-        ▼
-🤖 MACHINE LEARNING
-        │
-        ▼
-📈 MODEL EVALUATION
-        │
-        ▼
-🚀 DEPLOYMENT
-        │
-        ▼
-💡 BUSINESS IMPACT
-```
-
-</div>
+⚡ Fun Fact: I enjoy solving real-world problems using data
 
 ---
 
-# 👩‍💻 About Me
+🛠️ Tech Stack
 
-```python
-class PoojaMishra:
-
-    name = "Pooja Mishra"
-
-    location = "Gurugram, India"
-
-    role = "Data Scientist"
-
-    skills = [
-        "Python",
-        "Machine Learning",
-        "Deep Learning",
-        "Data Analysis",
-        "SQL",
-        "MLOps",
-        "Generative AI",
-        "LLMs"
-    ]
-
-    mission = (
-        "Transform raw data into meaningful insights "
-        "and intelligent solutions."
-    )
-
-    currently_learning = [
-        "LLMs",
-        "RAG Systems",
-        "LangGraph",
-        "AI Agents",
-        "MLOps"
-    ]
-```
-
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
+Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### Data Science & Machine Learning
+</p>Data Science & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>---
 
-### MLOps & Deployment
+📊 GitHub Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight&hide_border=true"/></p>---
 
----
+🚀 Featured Projects
 
-# 📊 What a Data Scientist Does
+📈 Customer Churn Prediction
 
-<div align="center">
+Machine Learning model to predict customer attrition and improve business retention strategies.
 
-| Task | Description |
-|--------|-------------|
-| 📥 Collect Data | Gather data from different sources |
-| 🧹 Clean Data | Remove errors and missing values |
-| 📊 Analyze Data | Find trends and patterns |
-| 🤖 Train Models | Build machine learning solutions |
-| 📈 Evaluate Models | Measure model performance |
-| 🚀 Deploy Models | Deliver AI solutions to users |
-| 💡 Generate Insights | Support business decisions |
+🏠 House Price Prediction
 
-</div>
+Regression-based model for estimating property prices using historical housing data.
+
+📊 Sales Dashboard
+
+Interactive Power BI dashboard providing sales insights and KPI tracking.
+
+🎬 Movie Recommendation System
+
+Recommendation engine using collaborative filtering techniques.
 
 ---
 
-# 🌱 Currently Learning
+📚 Currently Exploring
 
-### AI & Machine Learning
+🔹 Machine Learning Algorithms
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- AI Agents
-- LangGraph
-- MLOps
-- Deep Learning
-- Advanced Python
+🔹 Deep Learning
 
----
+🔹 Feature Engineering
 
-# 🚀 Featured Projects
+🔹 MLOps Fundamentals
 
-### 🔹 MLOps Pipeline
-
-End-to-End Machine Learning Pipeline with:
-
-- Data Ingestion
-- Data Validation
-- Model Training
-- MLflow Tracking
-- Docker Deployment
-- CI/CD Integration
+🔹 Generative AI & LLMs
 
 ---
 
-### 🔹 AI Resume Portfolio
+🏆 GitHub Trophies
 
-Professional AI-focused Resume & Portfolio Project showcasing:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vijaylekha25&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>---
 
-- Data Science Skills
-- Machine Learning Projects
-- Career Journey
-- GitHub Portfolio
+📈 Contribution Graph
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaylekha25&theme=tokyo-night&hide_border=true"/>
+</p>---
 
-### 🔹 RAG Question Answering System
+🤝 Connect With Me
 
-Building an intelligent document assistant using:
+<p align="left"><a href="https://github.com/Vijaylekha25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
 
-- LangChain
-- Vector Databases
-- OpenAI Models
-- FastAPI
+<div align="center">⭐ "Without data, you're just another person with an opinion."
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaylekha25&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Vijaylekha25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/pooja-mishra-88683a255/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ My Mission
-
-### "Turning Data Into Decisions and AI Into Real-World Impact"
-
-<img src="https://komarev.com/ghpvc/?username=Vijaylekha25&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
 
 </div>
