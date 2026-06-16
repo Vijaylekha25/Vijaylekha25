@@ -1,135 +1,137 @@
-# <p align="center">POOJA MISHRA</p>
+<div align="center">
 
-<p align="center">
-AI Engineer • Data Scientist • Turning Data Into Decisions
-</p>
+# ☕ POOJA'S DATA LAB
 
-<p align="center">
+### Data Scientist • Data Analyst • Building Intelligent Systems for the AI Era
 
-<!-- Replace with your custom GIF -->
+*"Turning messy data into meaningful decisions."*
 
-<img src="YOUR_CUSTOM_GIF_LINK_HERE" width="850"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="900"/>
 
-</p>
+### 📊 Python • SQL • Machine Learning • Power BI • FastAPI • MLOps • GCP
 
-<p align="center">
-
-"When others see numbers, I see stories."
-
-</p>
+</div>
 
 ---
 
-## 🧠 Daily Life of a Data Scientist
+## 👋 Hey, I'm Pooja
+
+I spend most of my time exploring data, finding hidden patterns, and building systems that transform information into business decisions.
+
+From customer analytics and dashboard development to machine learning pipelines and production APIs, I enjoy solving real-world problems through data.
+
+🔹 1+ Year Industry Experience
+
+🔹 50,000+ Customer Records Processed
+
+🔹 119,000+ Records Analyzed
+
+🔹 Production ML Systems on GCP
+
+🔹 OCR & Computer Vision Solutions
+
+---
+
+## 📈 My Data Journey
 
 ```text
-09:00  ☕ Coffee + SQL
-
-10:00  📊 Exploring messy data
-
-11:00  🧹 Cleaning datasets
-
-01:00  🍱 Lunch
-
-02:00  🤖 Training ML Models
-
-04:00  📈 Finding Insights
-
-06:00  🚀 Deploying APIs
-
-08:00  📚 Learning New AI Research
-```
-
----
-
-## 📡 Current Signal
-
-```yaml
-Status: Learning
-
-Mode: Deep Work
-
-Focus:
-  - Machine Learning
-  - Data Analytics
-  - Computer Vision
-  - MLOps
-
-Goal:
-  Become an AI Engineer
-  Building products used by millions
-```
-
----
-
-## 📈 How My Brain Works
-
 Raw Data
-↓
-Cleaning
-↓
-Analysis
-↓
-Patterns
-↓
+   ↓
+Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
 Machine Learning
-↓
-Insights
-↓
+   ↓
+Deployment
+   ↓
 Business Impact
+```
+
+## 🚀 Current Focus
+
+📊 Data Analytics
+
+🧠 Machine Learning
+
+📄 OCR & Document Intelligence
+
+⚙️ MLOps
+
+☁️ Cloud Deployment
+
+🤖 Generative AI
 
 ---
 
-## 🚀 Building
+## 💼 Featured Projects
 
-✅ Aadhaar OCR Platform
+### 📄 Aadhaar OCR Automation Platform
 
-✅ End-to-End MLOps Pipeline
+Built a production-grade OCR service for extracting structured information from Aadhaar cards and PDFs.
 
-✅ Hotel Cancellation Predictor
+**Impact**
 
-🚧 RAG System
+✅ Reduced manual KYC effort by ~80%
 
-🚧 AI Agent
+✅ Automated document processing
 
-🚧 LLM Applications
-
----
-
-## ☕ Fun Fact
-
-I can spend hours debugging a model,
-but still get excited when a SQL query
-returns the expected output on the first try.
+✅ Deployed on GCP Cloud Run
 
 ---
 
-## 📊 Data Mindset
+### ⚙️ End-to-End MLOps Pipeline
 
-I don't just build models.
+Built a complete machine learning lifecycle pipeline with CI/CD automation and cloud deployment.
 
-I ask:
+**Stack**
 
-Why?
-
-What pattern exists?
-
-What decision can this improve?
-
-How can it scale?
-
-That's where data becomes intelligence.
+Python • MLflow • Jenkins • Docker • Flask • GCP
 
 ---
 
-## 🌌 Vision
+### 🏨 Hotel Reservation Cancellation Prediction
 
-My goal isn't just to become a Data Scientist.
+Predicted hotel booking cancellations using LightGBM on 119K+ records.
 
-My goal is to build intelligent systems
-that solve real-world problems.
+**Results**
 
-From raw data ➜ insight ➜ automation ➜ impact.
+✅ 87%+ Accuracy
+
+✅ Business Insight Generation
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> Data tells stories.
+>
+> My job is to discover them, understand them, and turn them into decisions that create impact.
+
+---
+
+<div align="center">
+
+### ☕ Welcome to Pooja's Data Lab
+
+Data ➜ Insights ➜ Intelligence ➜ Impact
+
+</div>
+
 
 
 
