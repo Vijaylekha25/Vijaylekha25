@@ -1,219 +1,135 @@
-# <p align="center">⚡ POOJA MISHRA ⚡</p>
+# <p align="center">POOJA MISHRA</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Systems+Engineer;Data+Scientist;Machine+Learning+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+MLOps+%7C+Computer+Vision;Turning+Data+Into+Intelligence" />
+AI Engineer • Data Scientist • Turning Data Into Decisions
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW95dW4zbHNoM3Q4Y2k2Y2M4MzU4OHh2Zm9sNmM4Zm85cDB3OW5sYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+
+<!-- Replace with your custom GIF -->
+
+<img src="YOUR_CUSTOM_GIF_LINK_HERE" width="850"/>
+
+</p>
+
+<p align="center">
+
+"When others see numbers, I see stories."
+
 </p>
 
 ---
 
-# 🧠 AI CONTROL CENTER
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Identity:
-  Pooja Mishra
-
-Role:
-  AI Systems Engineer
-
-Location:
-  Gurugram,India 🇮🇳
-
-Status:
-  ONLINE 🟢
-
-Mission:
-  Building Intelligent Systems
-  That Learn, Reason and Scale
-
-Current Focus:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - Computer Vision
-  - MLOps
-  - AI Agents
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# ⚡ ABOUT ME
-
-I am passionate about building **production-ready AI systems** that solve real-world problems.
-
-My work combines:
-
-🧠 Artificial Intelligence
-
-📊 Data Science
-
-⚙️ Machine Learning Engineering
-
-🚀 MLOps & Cloud Deployment
-
-🔍 Computer Vision
-
-☁️ Scalable APIs
-
-I enjoy transforming raw data into intelligent products that create measurable business impact.
-
----
-
-# 🚀 CURRENT AI MISSIONS
+## 🧠 Daily Life of a Data Scientist
 
 ```text
-[✓] Production OCR Systems
-[✓] End-to-End MLOps Pipelines
-[✓] Cloud Deployment on GCP
-[✓] REST APIs with FastAPI
+09:00  ☕ Coffee + SQL
 
-[🚧] Retrieval-Augmented Generation (RAG)
-[🚧] AI Agents
-[🚧] LangGraph Workflows
-[🚧] LLM Fine-Tuning
+10:00  📊 Exploring messy data
 
-[🎯] Building Real-World AI Products
+11:00  🧹 Cleaning datasets
+
+01:00  🍱 Lunch
+
+02:00  🤖 Training ML Models
+
+04:00  📈 Finding Insights
+
+06:00  🚀 Deploying APIs
+
+08:00  📚 Learning New AI Research
 ```
 
 ---
 
-# 🛠 AI ARSENAL
+## 📡 Current Signal
 
-### Programming
+```yaml
+Status: Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+Mode: Deep Work
 
-### Data Science
+Focus:
+  - Machine Learning
+  - Data Analytics
+  - Computer Vision
+  - MLOps
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
-
-### AI & Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface)
-
-### MLOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-
-### Cloud
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud)
-
----
-
-# 🧬 AI EVOLUTION ROADMAP
-
-```mermaid
-graph LR
-
-A[Python] --> B[Machine Learning]
-
-B --> C[Data Science]
-
-C --> D[MLOps]
-
-D --> E[Computer Vision]
-
-E --> F[LLMs]
-
-F --> G[RAG Systems]
-
-G --> H[AI Agents]
-
-H --> I[Autonomous AI Systems]
+Goal:
+  Become an AI Engineer
+  Building products used by millions
 ```
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 📈 How My Brain Works
 
-## 🔹 Aadhaar OCR Automation Platform
-
-Production-grade OCR API for extracting structured Aadhaar information.
-
-Stack:
-
-FastAPI • PaddleOCR • OpenCV • Docker • GCP Cloud Run
-
----
-
-## 🔹 End-to-End MLOps Pipeline
-
-Automated training, experiment tracking, CI/CD, and deployment.
-
-Stack:
-
-Python • MLflow • Jenkins • Docker • GCP
+Raw Data
+↓
+Cleaning
+↓
+Analysis
+↓
+Patterns
+↓
+Machine Learning
+↓
+Insights
+↓
+Business Impact
 
 ---
 
-## 🔹 Hotel Reservation Cancellation Predictor
+## 🚀 Building
 
-Machine Learning model for predicting hotel booking cancellations.
+✅ Aadhaar OCR Platform
 
-Stack:
+✅ End-to-End MLOps Pipeline
 
-LightGBM • Pandas • Scikit-Learn
+✅ Hotel Cancellation Predictor
 
----
+🚧 RAG System
 
-# 📊 GITHUB ANALYTICS
+🚧 AI Agent
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vijaylekha25&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaylekha25&theme=tokyonight"/>
-
-</p>
+🚧 LLM Applications
 
 ---
 
-# 🧠 AI PHILOSOPHY
+## ☕ Fun Fact
 
-```python
-class PoojaMishra:
-
-    def mission(self):
-
-        return """
-        Build intelligent systems
-        that transform data into decisions,
-        automate complexity,
-        and create real-world impact.
-        """
-```
+I can spend hours debugging a model,
+but still get excited when a SQL query
+returns the expected output on the first try.
 
 ---
 
-# 🌐 CONNECT WITH ME
+## 📊 Data Mindset
 
-📧 [mpooja25@myyahoo.com](mailto:mpooja25@myyahoo.com)
+I don't just build models.
 
-💼 LinkedIn
+I ask:
 
-💻 GitHub: github.com/Vijaylekha25
+Why?
+
+What pattern exists?
+
+What decision can this improve?
+
+How can it scale?
+
+That's where data becomes intelligence.
 
 ---
 
-<p align="center">
+## 🌌 Vision
 
-### ⚡ BUILDING THE FUTURE WITH AI ⚡
+My goal isn't just to become a Data Scientist.
 
-*"The best way to predict the future is to build it."*
+My goal is to build intelligent systems
+that solve real-world problems.
 
-</p>
+From raw data ➜ insight ➜ automation ➜ impact.
+
 
 
