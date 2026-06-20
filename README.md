@@ -150,7 +150,7 @@ Machine Learning solution for hotel booking prediction:
 
 📧 mpooja25@myyahoo.com
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: www.linkedin.com/in/pooja-mishra-88683a255
 
 🐙 GitHub: https://github.com/Vijaylekha25
 
